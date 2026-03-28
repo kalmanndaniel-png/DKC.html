@@ -219,7 +219,9 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
 <footer>
   <div class="footer-inner">
     <p>© 2026 Daniël Kalmann Consultancy. All rights reserved.</p>
-    <div class="footer-logo">DKC<span>.</span></div>
+    <a href="#" class="nav-logo">
+  <img src="logo.png" alt="DKC Logo" style="height:32px;">
+</a>
   </div>
 </footer>
 
