@@ -186,8 +186,8 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
       <div class="about-card">
         <h3>Beyond the Boardroom</h3>
         <div class="traits">
-          <div class="trait"><div class="trait-icon">🚴</div><span>Avid Cyclist</span></div>
-          <div class="trait"><div class="trait-icon">🥊</div><span>Boxing Enthusiast</span></div>
+          <div class="trait"><div class="trait-icon">🚴</div><span>Cycling</span></div>
+          <div class="trait"><div class="trait-icon">🥊</div><span>Boxing</span></div>
           <div class="trait"><div class="trait-icon">👶</div><span>Proud Dad</span></div>
           <div class="trait"><div class="trait-icon">📍</div><span>Based in Haarlem, NL</span></div>
         </div>
