@@ -176,10 +176,10 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
       <p class="about-label">About</p>
       <h2>Daniël Kalmann</h2>
       <div class="about-divider"></div>
-      <blockquote>"Digital transformation is 20% technology and 80% change management."</blockquote>
+      <blockquote>"Digital transformation is 20% technology and 80% people and process."</blockquote>
       <p>With over 10 years of experience in Procurement Excellence and Digital Transformation, I bridge the gap between complex business processes and high-end digital solutions.</p>
       <p>My approach is strategic, results-oriented, but always focused on the people who use the tools. Because even the best system fails if nobody actually wants to use it.</p>
-      <p>Previously Procurement Excellence Manager at Rituals (B Corp™), with 10+ years leading sourcing and procurement projects delivering results in digital procurement, project management, and business performance improvement.</p>
+      <p>10+ years leading sourcing and procurement projects delivering results in digital procurement, project management, and business performance improvement.</p>
     </div>
     <div>
       <div class="about-card">
