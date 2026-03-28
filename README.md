@@ -111,7 +111,9 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
 <!-- NAV -->
 <nav>
   <div class="nav-inner">
-    <a href="#" class="nav-logo">DKC<span>.</span></a>
+    <a href="#" class="nav-logo">
+  <img src="logo.png" alt="DKC Logo" style="height:32px;">
+</a>
     <div class="nav-links">
       <a href="#expertise">Expertise</a>
       <a href="#about">About</a>
