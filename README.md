@@ -112,7 +112,7 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
 <nav>
   <div class="nav-inner">
     <a href="#" class="nav-logo">
-  <img src="logo.png" alt="DKC Logo" style="height:32px;">
+  <img src="logo.png" alt="DKC Logo" style="height:64px;">
 </a>
     <div class="nav-links">
       <a href="#expertise">Expertise</a>
@@ -220,7 +220,7 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
   <div class="footer-inner">
     <p>© 2026 Daniël Kalmann Consultancy. All rights reserved.</p>
     <div class="footer-logo">
-  <img src="logo.png" alt="DKC Logo" style="height:28px;">
+  <img src="logo.png" alt="DKC Logo" style="height:64px;">
 </div>
   </div>
 </footer>
