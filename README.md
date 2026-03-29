@@ -158,13 +158,13 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
         <div class="pillar-icon">🎯</div>
         <h3>Procurement Excellence</h3>
         <p>Strategy-to-execution, data driven procurement, and operating model including procurement operations advisory to elevate your procurement function.</p>
-        <ul><li>Operating Model Advisory</li><li>Taxonomy Restructuring</li><li>Strategy Execution</li></ul>
+        <ul><li>Operating Model Advisory</li><li>Data driven procurement</li><li>Strategy Execution</li></ul>
       </div>
       <div class="pillar">
         <div class="pillar-icon">🔧</div>
         <h3>Process Optimization</h3>
         <p>Source-to-Pay implementations and optimization, Taxonomy, and automation for maximum efficiency.</p>
-        <ul><li>S2P Implementation</li><li>P2P Optimization</li><li>Automation &amp; Efficiency</li></ul>
+        <ul><li>S2P Implementation</li><li>Optimization</li><li>Automation &amp; Efficiency</li></ul>
       </div>
     </div>
   </div>
