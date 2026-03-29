@@ -144,7 +144,7 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
   <div class="section-center">
     <p class="section-label">What I Do</p>
     <h2 class="section-title">The Excellence Pillars</h2>
-    <p class="section-sub">Focused service offerings designed to transform your procurement operations into a strategic value driver.</p>
+    <p class="section-sub">Focused advisory and delivery service designed to transform your procurement operations into a strategic value driver.</p>
   </div>
   <div class="section-center">
     <div class="pillars">
@@ -157,13 +157,13 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
       <div class="pillar">
         <div class="pillar-icon">🎯</div>
         <h3>Procurement Excellence</h3>
-        <p>Strategy-to-execution, taxonomy restructuring, and operating model advisory to elevate your procurement function.</p>
+        <p>Strategy-to-execution, data driven procurement, and operating model including procurement operations advisory to elevate your procurement function.</p>
         <ul><li>Operating Model Advisory</li><li>Taxonomy Restructuring</li><li>Strategy Execution</li></ul>
       </div>
       <div class="pillar">
         <div class="pillar-icon">🔧</div>
         <h3>Process Optimization</h3>
-        <p>Source-to-Pay implementations, P2P optimization, and automation for maximum efficiency.</p>
+        <p>Source-to-Pay implementations and optimization, Taxonomy, and automation for maximum efficiency.</p>
         <ul><li>S2P Implementation</li><li>P2P Optimization</li><li>Automation &amp; Efficiency</li></ul>
       </div>
     </div>
@@ -180,7 +180,7 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
       <blockquote>"Digital transformation is 20% technology and 80% people and process."</blockquote>
       <p>With over 10 years of experience in Procurement Excellence and Digital Transformation, I bridge the gap between complex business processes and high-end digital solutions.</p>
       <p>My approach is strategic, results-oriented, but always focused on the people who use the tools. Because even the best system fails if nobody actually wants to use it.</p>
-      <p>10+ years leading sourcing and procurement projects delivering results in digital procurement, project management, and business performance improvement.</p>
+      <p>10+ years leading sourcing and procurement projects delivering results in digital procurement, project management, and business performance improvement. Experience in Management Consulting and Corporate positions. Projects in S2P implementation, optimization, category management & strategy, policy & operating model and governance, data cleansing, GenAI, sourcing and RFx and managing and leading teams </p>
     </div>
     <div>
       <div class="about-card">
