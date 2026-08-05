@@ -183,7 +183,6 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
       <p>10+ years leading sourcing and procurement projects delivering results in digital procurement, project management, and business performance improvement. Experience in Management Consulting and Corporate positions. Projects in S2P implementation, optimization, category management & strategy, policy & operating model and governance, data cleansing, GenAI, sourcing and RFx and managing and leading teams </p>
     </div>
     <div>
-      <img src="1785315473018.jpeg" width="200" alt="Foto">
       <div class="about-card">
         <h3>Beyond the Boardroom</h3>
         <div class="traits">
@@ -215,6 +214,8 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
     </div>
   </div>
 </section>
+
+  <img src="1785315473018.jpeg" width="200" alt="Foto">
 
 <!-- FOOTER -->
 <footer>
