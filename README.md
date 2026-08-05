@@ -174,6 +174,7 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
 <section id="about" class="about">
   <div class="about-grid">
     <div>
+      <img src="1785315473018.jpeg">
       <p class="about-label">About</p>
       <h2>Daniël Kalmann</h2>
       <div class="about-divider"></div>
