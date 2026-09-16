@@ -198,6 +198,8 @@ footer{border-top:1px solid #e5e7eb;background:var(--surface)}
           <div><strong>NL</strong><small>Based</small></div>
         </div>
       </div>
+     </div>
+     Keywords: Procurement Excellence, Procurement Transformation, Digital Procurement, Procurement Strategy, Strategic Sourcing, Procurement Operating Model, Coupa, Source-to-Pay, Supplier Management, Procurement Advisory, Interim Procurement Manager.Below is the html code.Daniël Kalmann Consultancy — Procurement Excellence & Digital Transformation
     </div>
   </div>
 </section>
